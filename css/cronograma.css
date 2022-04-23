@@ -1,0 +1,36 @@
+.img-principal-cronograma {
+    display: flex;
+    margin-top: 30px;
+    background-image: url("../img/cronograma/cronograma-img1.jpg");
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 450px;
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+}
+
+.titulo-cronograma {
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+    .img-principal-cronograma {
+        font-size: 1.5rem;
+    }
+
+    .img-principal-cronograma h1 {
+
+        background-color: #000;
+    }
+}
+
+
