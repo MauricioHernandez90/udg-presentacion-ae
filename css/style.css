@@ -184,6 +184,25 @@ body {
   }
 }
 
+.seccion-boton-actividad {
+  display: flex;
+  justify-content: center;
+}
+
+.boton {
+  padding: 10px 60px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  background-color: #000;
+  font-size: 2rem;
+}
+
+.boton:hover {
+  background-color: rgb(163, 0, 0);
+  cursor: pointer;
+}
+
 footer {
   display: grid;
   justify-content: center;
