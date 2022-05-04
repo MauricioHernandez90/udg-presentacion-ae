@@ -187,6 +187,7 @@ body {
 .seccion-boton-actividad {
   display: flex;
   justify-content: center;
+  margin-bottom: 3rem;
 }
 
 .boton {
